@@ -1,3 +1,4 @@
+//program for finding sum of 3 numbers
 #include<stdio.h>
 int calsum(int x,int y,int z);
 int main()

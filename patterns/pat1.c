@@ -21,9 +21,4 @@ int main()
 	return 0;
 }
 
-/* EXPLAINATION :
- 
-            initial value of i=1,i<=5 so it enters the loop here in 2nd loop initial value of j=1,j<=5 
-            so it enters to nxt statement and prints the star(*) now cursor moves to next statement and prints 
-	    new line now cursor moves to the starting for loops here increment of i takes place  now i=2..this
-	    complete loops stops when i=5 and loop ends here.   */
+
