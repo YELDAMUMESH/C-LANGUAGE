@@ -7,8 +7,8 @@ int main()
  a=a^b;
  b=a^b;
  a=a^b;
- printf("after XOR operation a=%d,b=%d",a,b);
- return 0;   
+ printf("after XOR operation a=%d,b=%d",a,b);  
+ return 0;
 }
 
 //note : when can perform swaping using XOR operator
