@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/github_files/C-LANGUAGE/bitwise_operators",
-      "program": "e:/github_files/C-LANGUAGE/bitwise_operators/build/Debug/outDebug",
+      "cwd": "e:/github_files/C-LANGUAGE/pointers",
+      "program": "e:/github_files/C-LANGUAGE/pointers/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
