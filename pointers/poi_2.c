@@ -6,7 +6,7 @@ int main()
     p=&x;
     q=p;
     *q=0;
-    printf("%d %d",*p,*q);
+    printf("%d\n%d",*p,*q);
     return 0;
 
 }
