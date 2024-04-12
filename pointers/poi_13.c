@@ -1,3 +1,5 @@
+//printing a series in reverse order
+
 #include<stdio.h>
 #define N 5
 int main()
@@ -8,6 +10,6 @@ int main()
     scanf("%d",p);
     printf("elements in reverse order:\n");
     for(p=a+N-1;p>=a;p--)
-    printf("%d",*p);
+    printf("%d\t",*p);
     return 0;
 }
