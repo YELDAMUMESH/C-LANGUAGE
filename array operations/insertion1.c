@@ -1,4 +1,8 @@
 #include<stdio.h>
+
+void display(int arr[],int n);
+int insertion(int arr[],int size,int element,int capacity,int index);
+
 int main()
 {
     int arr[100]={1,2,3,4};
