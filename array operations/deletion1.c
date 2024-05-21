@@ -27,7 +27,7 @@ void delete(int arr[],int size,int index)
 int main()
 {
 int arr[]={0,1,2,3,4};
-int size=5;
+int size=sizeof(arr)/sizeof(int);
 int index=0;
 display(arr,size);
 delete( arr,size,index);
